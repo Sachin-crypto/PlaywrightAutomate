@@ -1,0 +1,4 @@
+.env
+playwrightpy
+.vscode
+__pycache__
